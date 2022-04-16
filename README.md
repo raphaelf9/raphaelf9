@@ -1,16 +1,19 @@
+### Hi there 👋
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">          
-<h1>##👋 Hello! </h1>
-<p>Welcome to my Github profile.</p>
-<p>My name is Raphael Faria, </p>
+#### I'm a Brazilian Software Developer.
 
-<p>:computer: I’m a brazilian software developer</p>
+##### BIO
 
-<h2>📫 About me: </h2>
-<a href="https://www.linkedin.com/in/raphaelf9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-<h2>- :books: Tools and Technologies</h2>
+- 🏢 I'm currently working at **Vyttra Diagnosticos - BR**
 
-<img height=40px widht=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><img height=40px widht=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /><img height=40px width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /><img height=40px width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+- ⚙️ I use daily: `.js`,`.nodejs`, `.html`, `.css`, `.python`, `.sql`
 
+- 🌍 I'm mostly active within the **NodeJs Community**
+
+- 🌱 Learning all about **nodejs**
+
+- 💬 Ping me about **branding**, **nodejs**, **development**, **design thinking**
+ 
+- 📫 Reach me: [linkedin.com/raphaelf9](https://www.linkedin.com/in/raphaelf9/)
    
 
