@@ -6,9 +6,9 @@
 
 - 🏢 I'm currently working at **Vyttra Diagnosticos - BR**
 
-- ⚙️ I use daily: `.js`,`.nodejs`, `.html`, `.css`, `.c#`, `.sql`
+- ⚙️ I daily Study: `.c#`, `.netCore`,`.ASP.net`,`.nodejs`, `.html`, `.css`, `.sql`
 
-- 🌱 Learning all about **c#** **.net**
+- 🌱 Learning all about **c#** **.net** **ASP.net**
  
 - 📫 Reach me: [linkedin.com/raphaelf9](https://www.linkedin.com/in/raphaelf9/)
    
