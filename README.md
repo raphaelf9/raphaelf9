@@ -6,7 +6,7 @@
 
 - 🏢 I'm currently working at **Vyttra Diagnosticos - BR**
 
-- ⚙️ I daily Study: `.c#`, `.netCore`,`.ASP.net`,`.nodejs`, `.html`, `.css`, `.sql`
+- ⚙️ I Study: `.C#`, `.netCore`,`.ASP.net`,`.nodejs`, `.html`, `.css`, `.sql`,`.C`
 
 - 🌱 Learning all about **c#** **.net** **ASP.net**
  
