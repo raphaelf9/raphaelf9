@@ -6,7 +6,7 @@
 
 - 🏢 I'm currently working at **Vyttra Diagnosticos - BR**
 
-- ⚙️ I Study: `.JAVA`, `.SpringBoot`,`.Javascript`,`.nodejs`, `.html`, `.css`, `.sql`,`.C`
+- ⚙️ I Study: `.Java`, `.SpringBoot`,`.Javascript`,`.Nodejs`, `.React`
 
 - 🌱 Learning all about **Android,** **Mobile** and **Web**
  
