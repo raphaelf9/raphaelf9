@@ -8,7 +8,7 @@
 
 - ⚙️ I Study: `.Java`, `.SpringBoot`,`.Javascript`,`.Nodejs`, `.React`
 
-- 🌱 Learning all about **Android,** **Mobile** and **Web**
+- 🌱 Learning all about **Java,** **Mobile** and **Web**
  
 - 📫 Reach me: [linkedin.com/raphaelf9](https://www.linkedin.com/in/raphaelf9/)
    
