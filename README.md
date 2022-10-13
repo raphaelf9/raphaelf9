@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-#### I'm a Brazilian Software Developer.
+#### I'm a Brazilian FullStack Software Developer.
 
 ##### BIO
 
 - 🏢 I'm currently working at **Vyttra Diagnosticos - BR**
 
-- ⚙️ I Study: `.Java`, `.SpringBoot`,`.Javascript`,`.Nodejs`, `.React`
+- ⚙️ I Study: `.Javascript`,`.Nodejs`, `.React`
 
 - 🌱 Learning all about **Java,** **Mobile** and **Web**
  
