@@ -6,7 +6,7 @@
 
 - 🏢 I'm currently working at **Vyttra Diagnosticos - BR**
 
-- ⚙️ I Study: `.Javascript`,`.Nodejs`, `.React`
+- ⚙️ I Study: `.Javascript`,`.Nodejs`, `.React`, `.React Native`
 
 - 🌱 Learning all about **Java,** **Mobile** and **Web**
  
