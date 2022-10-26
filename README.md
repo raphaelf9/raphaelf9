@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-#### I'm a Brazilian FullStack Software Developer.
+#### I'm a Brazilian Software Developer.
 
 ##### BIO
 
 - 🏢 I'm currently working at **Vyttra Diagnosticos - BR**
 
-- ⚙️ I Study: `.Javascript`,`.Nodejs`, `.React`, `.React Native`
+- ⚙️ I'm studying software enginnering at PUCMINAS
 
-- 🌱 Learning all about **Javascript,** **Mobile** and **Web**
+- 🌱 Learning all about **Javascript,** **NodeJS** and **React**
  
 - 📫 Reach me: [linkedin.com/raphaelf9](https://www.linkedin.com/in/raphaelf9/)
    
