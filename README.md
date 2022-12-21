@@ -8,7 +8,7 @@
 
 - ⚙️ I'm studying software enginnering at PUCMINAS
 
-- 🌱 Learning all about **Javascript,** **NodeJS** and **React**
+- 🌱 Learning all about **Java,** **NodeJS** and **React**
  
 - 📫 Reach me: [linkedin.com/raphaelf9](https://www.linkedin.com/in/raphaelf9/)
    
