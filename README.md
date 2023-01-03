@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Brazilian Software Developer.
+#### I'm a Brazilian Software Engineer.
 
 ##### BIO
 
